@@ -1,4 +1,4 @@
-<h2 align="center">Nextjs CespDev</h2>
+<h2 align="center">Nextjs + TailwindCSS - CespDev</h2>
 
 ---
 
@@ -15,51 +15,51 @@
 ---
 
 <h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
-  <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#information_source-sobre">About</a>&nbsp;|&nbsp;
+  <a href="#interrobang-motivo">Reason</a>&nbsp;|&nbsp;
+  <a href="#seedling-requisitos-mínimos">Requirements</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Techs</a>&nbsp;|&nbsp;
+  <a href="#link-como-contribuir">How to Contribute</a>&nbsp;|&nbsp;
+  <a href="#licença">License</a>
 </h3>
 
 ---
 
 <img src="https://repository-images.githubusercontent.com/306188281/8eaeeb00-698f-11eb-8c78-889cff89401b" width="1200">
 
-## :information_source: Sobre
+## :information_source: About
 
-Working on initial template for starting new projects with NextJs
+Initial template for fast and agile development when working
+with NextJs.
 
-## :interrobang: Motivo
+## :interrobang: Reason
 
-For fast and agile development when working with NextJs
+For fast and agile development when starting a new project with NextJs
 
-## :seedling: Requisitos Mínimos
+## :seedling: Requirements
 
 Node
 
-## :rocket: Tecnologias Utilizadas
+## :rocket: Techs
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+The project was developed using the following technologies
 
 - NextJs
 - Typescript
+- TailwindCSS
 - Eslint
 - Prettier
-- StyledComponents
 - Husky
 - Jest
 
-## :link: Como contribuir
+## :link: How to Contribute
 
-- Faça um Fork do repositório
-- Clone o seu repositório
-- Crie uma branch com a sua feature
-- Faça um commit com suas mudanças
-- 'Push' a sua branch
-- Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
+- Fork
+- Create a branch with your feature
+- Commit
+- 'Push'
+- Make a Pull Requests
 
-## Licença
+## License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
