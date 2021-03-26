@@ -3,7 +3,8 @@
 ---
 
 <p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/48498237?s=460&u=a138afdd281690746c6564d47f005c5257c9bc4f&v=4" width="300" heigth="300">
+  
+<img alt="Night Coding" src="https://raw.githubusercontent.com/henriquecesp/henriquecesp/main/assets/coffee.gif" />
 </p>
 
 <p align="center">
