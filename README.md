@@ -25,7 +25,7 @@
 
 ---
 
-<img src="https://repository-images.githubusercontent.com/306188281/8eaeeb00-698f-11eb-8c78-889cff89401b" width="1200">
+<img src="https://repository-images.githubusercontent.com/351928175/34e58000-8e6c-11eb-91fb-394c7bfefd7d" width="1200">
 
 ## :information_source: About
 
